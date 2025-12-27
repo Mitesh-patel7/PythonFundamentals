@@ -1,0 +1,3 @@
+Hello,
+This is sample text for reading a file.
+Thank you for accessing it.
